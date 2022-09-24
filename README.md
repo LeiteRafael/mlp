@@ -1,4 +1,4 @@
-# JavaScript
+# Workshop JavaScript
 
 > Conhecendo a linguagem
 
@@ -256,3 +256,11 @@ Criado pela Microsoft em 2012, é um superset da linguagem javascript. Adiciona 
 Conforme o site Stack Overflow em 2021. Javascript sem matem em uma das principais linguagens atualmente.
 //imagem1
 Por último, podemos notar através de uma pesquisa no linkedin uma grande quantidade de vagas.
+
+### Referências
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+- https://medium.com/@adsonrocha/heran%C3%A7a-de-classes-com-javascript-es6-cd577e567922
+- https://medium.com/@nicolasbontempo/programando-javascript-orientado-a-objetos-87b1e98af6e4
+- http://es6-features.org
+- https://www.w3schools.com/js/js_es6.asp
+- https://blog.rocketseat.com.br/as-melhores-features-do-es6-es7-e-es8/
