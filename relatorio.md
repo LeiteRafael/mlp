@@ -284,7 +284,12 @@ Criado pela Microsoft em 2012, é um superset da linguagem javascript. Adiciona 
 Conforme o site Stack Overflow em 2021. Javascript sem matem em uma das principais linguagens atualmente. <p>
 <img src="https://github.com/LeiteRafael/mlp/blob/main/ranking.PNG" height=300> <p> 
 Por último, podemos notar através de uma pesquisa no LinkedIn uma grande quantidade de vagas. <p>
-<img src="https://github.com/LeiteRafael/mlp/blob/main/mercado.PNG" height=200> <p>
+<img src="https://github.com/LeiteRafael/mlp/blob/main/mercado.PNG" height=200> <
+
+### Conclusão
+A aplicabilidade do Javascript cada vez está se expandindo mais.
+
+Ao longo dos anos, novas features do JS atenderam às demandas para melhor desempenho na web que antes tinha apenas páginas estáticas, o que resultava em mais lentidão no tempo de resposta ao usuário no carregamento das páginas. Graças ao JavaScript, sites e aplicações se tornaram mais dinâmicos. Além disso, o número de frameworks vem crescendo ao longo do tempo e aceitação da linguagem crescendo. 
 
 ### Referências
 - https://www.freecodecamp.org/portuguese/news/os-quatro-pilares-da-programacao-orientada-a-objetos-com-javascript/
