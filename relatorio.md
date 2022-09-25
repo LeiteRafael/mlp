@@ -287,10 +287,11 @@ Por último, podemos notar através de uma pesquisa no LinkedIn uma grande quant
 <img src="https://github.com/LeiteRafael/mlp/blob/main/mercado.PNG" height=200> <
 
 ### Conclusão
-A aplicabilidade do Javascript cada vez está se expandindo mais.
+A aplicabilidade do Javascript cada vez está se expandindo mais por ser uma linguagem multipardigma e sua curva de aprendizado é relativamente pequena.
 
-Ao longo dos anos, novas features do JS atenderam às demandas para melhor desempenho na web que antes tinha apenas páginas estáticas, o que resultava em mais lentidão no tempo de resposta ao usuário no carregamento das páginas. Graças ao JavaScript, sites e aplicações se tornaram mais dinâmicos. Além disso, o número de frameworks vem crescendo ao longo do tempo e aceitação da linguagem crescendo. 
+Ao longo dos anos, novas features do JS atenderam às demandas para melhor desempenho na web que antes tinha apenas páginas estáticas, o que resultava em mais lentidão no tempo de resposta ao usuário no carregamento das páginas. Graças ao JavaScript, sites e aplicações se tornaram mais dinâmicos. Além disso, o número de frameworks vem crescendo ao longo do tempo e aceitação da linguagem crescendo.
 
+                                                                                   
 ### Referências
 - https://www.freecodecamp.org/portuguese/news/os-quatro-pilares-da-programacao-orientada-a-objetos-com-javascript/
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map
