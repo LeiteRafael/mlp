@@ -112,7 +112,20 @@ console.log(aluno.nome); //Rafael
 ```
 #### Polimorfismo
 ```javascript
-// Colocar exemplo de polimorfismo
+function Animal() { }
+function Gato() { }
+
+Animal.prototype.fazerBarulho = function () {
+  console.log("Barulho base");
+};
+Gato.prototype = new Animal();
+Gato.prototype.fazerBarulho = function () {
+  console.log("Miau");
+};
+
+var barulhoAnimal = new Animal().fazerBarulho; // Barulho base
+var barulhoGato = new Gato().fazerBarulho(); // Miau
+
 ```
 ---
 ### Evolução do Javascript
@@ -274,6 +287,7 @@ Por último, podemos notar através de uma pesquisa no LinkedIn uma grande quant
 <img src="https://github.com/LeiteRafael/mlp/blob/main/mercado.PNG" height=200> <p>
 
 ### Referências
+- https://www.freecodecamp.org/portuguese/news/os-quatro-pilares-da-programacao-orientada-a-objetos-com-javascript/
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 - https://medium.com/@adsonrocha/heran%C3%A7a-de-classes-com-javascript-es6-cd577e567922
 - https://medium.com/@nicolasbontempo/programando-javascript-orientado-a-objetos-87b1e98af6e4
