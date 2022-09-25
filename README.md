@@ -9,7 +9,23 @@
 ##### Professor Leandro Krug Wives
 
 ---
+## Tópicos
+- Surgimento
+- Primeiros anos
+- Paradigmas
+  - Funcional
+  - POO
+- Evolução da linguagem
+- Features ES6
+- Assicronismo
+  - async/await
+- Nodejs
+- Aplicabilidade
+- TypeScript
+- Popularidade
+- Mercado Atual
 
+---
 ## Surgimento
 
 Javascript foi criada em 1995 por Brendan Eich para o Netscape Navigator, com o nome de LiveScript.
