@@ -98,11 +98,10 @@ console.log(aluno.nome); //Rafael
 ```javascript
 // Colocar exemplo de polimorfismo
 ```
+---
 ### Evolução do Javascript
 
 Ao longo dos anos, JavaScript foi recebendo features e melhorias, no entanto em 2015 a linguagem recebe novas funcionalidades através do ES6.
-
-//colocar a imagem
 
 ### Features do ES6
 
@@ -253,9 +252,10 @@ Criado por Ryan Dahl em 2008, é um software capaz de interpretar e executar có
 Criado pela Microsoft em 2012, é um superset da linguagem javascript. Adiciona tipagem a linguagem e melhorias na importação de bibliotecas. No final de tudo "transpilamos" o código pra javascript.
 
 ### Contexto atual e mercado
-Conforme o site Stack Overflow em 2021. Javascript sem matem em uma das principais linguagens atualmente.
-//imagem1
-Por último, podemos notar através de uma pesquisa no linkedin uma grande quantidade de vagas.
+Conforme o site Stack Overflow em 2021. Javascript sem matem em uma das principais linguagens atualmente. <p>
+<img src="https://github.com/LeiteRafael/mlp/blob/main/ranking.PNG" height=300> <p> 
+Por último, podemos notar através de uma pesquisa no LinkedIn uma grande quantidade de vagas. <p>
+<img src="https://github.com/LeiteRafael/mlp/blob/main/mercado.PNG" height=200> <p>
 
 ### Referências
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map
