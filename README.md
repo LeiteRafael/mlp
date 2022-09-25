@@ -89,7 +89,7 @@ function Pessoa(nome, idade) { //classe pai
 }
 function Aluno(matricula, nome, idade) { //classe filha
     this.matricula = matricula
-    Pessoa.call(this, nome, idade, matricula); //Chamda da classe pai
+    Pessoa.call(this, nome, idade, matricula); // chamada da classe pai
 }
 const aluno = new Aluno(1001, 'Rafael', 26);
 console.log(aluno.nome); //Rafael
@@ -145,7 +145,7 @@ function foo(a=’10’){
 foo();   // 10
 foo(20); // 20
 ```
-### Spread Operator
+#### Spread Operator
 ```javascript
 const carro = {
   marca: 'Ford',
@@ -159,7 +159,7 @@ const carroAtualizado = {
 console.log(carroAtualizado)
  // {marca: "Ford", model: "Mustang", cor: "azul"}
 ```
-### String Template
+#### String Template
 Evitar usarmos operador '+' para concatenarmos strings e variáveis
 ```javascript
 const carro = {
@@ -170,7 +170,7 @@ const carro = {
 
 const a = `Meu carro é ${carro.modelo} dar cor: ${carro.cor}`
 ```
-### Class
+#### Class
 Como as features trazidas pela implementação do ES6, agora temos um açucar sintático para a criação de classes através do uso da palavra 'class'
 
 ```javascript
