@@ -286,6 +286,28 @@ Conforme o site Stack Overflow em 2021. Javascript sem matem em uma das principa
 Por último, podemos notar através de uma pesquisa no LinkedIn uma grande quantidade de vagas. <p>
 <img src="https://github.com/LeiteRafael/mlp/blob/main/mercado.PNG" height=200> <
 
+### Análise Crítica
+
+Particularmente, como desenvolvedor javascript a alguns anos, eu acho uma excelente linguagem de programação para se aprender.
+
+Pontos positivos:
+- Multiparidgma(Funcional,Sequêncial e POO)
+- Sintaxe amigavel(possui sintaxe clara, menos que Python é claro)
+- Possui blocos de tratamento de erro(try catch)
+- Estruturas condicionais e de loop(Estruturas bem definidas e funcionais)
+- Uso para Backend
+- Uso para Frontend
+
+Pontos Negativos:
+- É uma linguagem de programação com tipagem fraca(Dinâmica), isso pode gerar problemas se nao tivermos cuidados com as variáveis e seus tipos
+- Precisamos de muitas bibliotecas e frameworks para que possamos usar a nivel de mercado de trabalho.
+- Pode existir incompatibilidade de features novas entre navegadores e versões do Nodejs(Atualmente, ocorre menos, mas é um aspecto bem chato)
+- Existem um preconceito por ser originalmente uma linguagem que tinha uso em navegadores apenas e para usarmos precisamos usar Nodejs.
+                                                                                     
+                                                                                     
+                                                                                   
+  
+  
 ### Conclusão
 A aplicabilidade do Javascript cada vez está se expandindo mais por ser uma linguagem multipardigma e sua curva de aprendizado é relativamente pequena.
 
