@@ -105,6 +105,7 @@ function Pessoa(nome, idade) { //classe pai
 }
 function Aluno(matricula, nome, idade) { //classe filha
     this.matricula = matricula
+    // funciona como uma espécie de super() 
     Pessoa.call(this, nome, idade, matricula); // chamada da classe pai
 }
 const aluno = new Aluno(1001, 'Rafael', 26);
@@ -119,7 +120,7 @@ Animal.prototype.fazerBarulho = function () {
   console.log("Barulho base");
 };
 Gato.prototype = new Animal();
-Gato.prototype.fazerBarulho = function () {
+Gato.prototype.fazerBarulho = function () {  // Exemplo de sobrescrita em js
   console.log("Miau");
 };
 
