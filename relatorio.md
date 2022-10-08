@@ -289,25 +289,27 @@ Por último, podemos notar através de uma pesquisa no LinkedIn uma grande quant
 ### Análise Crítica
 
 Particularmente, como desenvolvedor javascript a alguns anos, eu acho uma excelente linguagem de programação para se aprender.
+Abaixo alguns pontos positivos e negativos da linguagem. Foi dado uma nota para o critério e realizada um média final
 
 Pontos positivos:
-- Multiparidgma(Funcional,Sequêncial e POO)
-- Sintaxe amigavel(possui sintaxe clara, menos que Python é claro)
-- Possui blocos de tratamento de erro(try catch)
-- Estruturas condicionais e de loop(Estruturas bem definidas e funcionais)
-- Uso para Backend
-- Uso para Frontend
+- Multiparidgma(Funcional,Sequêncial e POO) - 9
+- Sintaxe amigavel(possui sintaxe clara, menos que Python é claro) - 8,5
+- Possui blocos de tratamento de erro(try catch)- 9
+- Estruturas condicionais e de loop(Estruturas bem definidas e funcionais) - 10
+- Uso para Backend - 9
+- Uso para Frontend - 10
 
+Média Positiva = 9,25
+                                                                                     
 Pontos Negativos:
 - É uma linguagem de programação com tipagem fraca(Dinâmica), isso pode gerar problemas se nao tivermos cuidados com as variáveis e seus tipos
 - Precisamos de muitas bibliotecas e frameworks para que possamos usar a nivel de mercado de trabalho.
 - Pode existir incompatibilidade de features novas entre navegadores e versões do Nodejs(Atualmente, ocorre menos, mas é um aspecto bem chato)
 - Existem um preconceito por ser originalmente uma linguagem que tinha uso em navegadores apenas e para usarmos precisamos usar Nodejs.
                                                                                      
+Considerando os aspectos negativos
+Media final = 8,5                                                                                    
                                                                                      
-                                                                                   
-  
-  
 ### Conclusão
 A aplicabilidade do Javascript cada vez está se expandindo mais por ser uma linguagem multipardigma e sua curva de aprendizado é relativamente pequena.
 
